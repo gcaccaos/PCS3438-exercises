@@ -4,7 +4,7 @@ Este repositório contém os códigos criados para resolver as questões 1 a 4 d
 
 Os códigos foram feitos em Python 3 através do Jupyter Notebook com o auxílio de módulos adicionais, como sklearn, pandas e numpy.
 
-## Minhas respostas
+## Minhas respostas para as questões
 
 ### 1) Naive Bayes
 **Holdout**
